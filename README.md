@@ -3,9 +3,7 @@
 A simple and beautiful Stopwatch Web App that displays minutes, seconds, and milliseconds, allowing users to Start, Pause, and Reset the timer.
 This project is ideal for beginners learning JavaScript timing functions and DOM manipulation.
 
-🚀 Live Demo
-
-👉 Host your GitHub Pages link here
+🚀 Live Demo:
 https://shravaniii06.github.io/stop-watch/
 
 📸 Features
